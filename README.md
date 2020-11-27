@@ -4,9 +4,14 @@
 - --
 
 ## About
-I am a second year student at Farmingdale State College, studying Information Systems. I have always enjoyed working with computers, and applying them to solve problems. My first professional experience was working for my high school's IT department, where I gained real experience on troubleshooting computer systems. I am comfortable usjng C++, Python. Over winter break, I am working on getting Microsoft Certified in Azure Fundamentals, Power Platform and Dynamics.
+I am a second year student at Farmingdale State College, studying Information Systems. 
 
-I got involved in theatre in high school. I taught myself how to work with DMX lights and how to program on the ETC Ion board. I also learned how to work with sound equipment and tools. I learnt how to use QLAB for sound cues and set up wireless mics using software like WirelessWorkbench. During my time in high school, I ran lights for over 10 shows. I am currently learning to use Vectorworks to lighting draw plots. 
+I have always enjoyed working with computers, and applying them to solve problems. I am currently working on getting Microsoft Certifications in Azure, Power Platform and Dynamics 365.
+
+I an experienced lighting designer, and have lit up plays, musicals and dance shows. I got into theatre in Grade 9, where I would follow along with what other person was programming. As time went on, I became more experiened and was able to program ful 
+
+I began to take film seriously in Grade 9. Blah blah something I talk about. 
+Films worked on has won awards.
 
 &nbsp;
 ## Experience
@@ -26,7 +31,7 @@ I got involved in theatre in high school. I taught myself how to work with DMX l
 
 ### Cinematographer - *A Typical First I Love You*
    ##### *IndEP Media | New Hyde Park, NY | January '20*
-   A Typical I First Love You is a short film directed by Justin Janoson. I was a cinematographer, and worked with LED lights to light up the shots. The film won *Audience Award Winner* at the 2020 Quinnies, was a part of the Official Selection for the Long Island International Film Expo, and was featured in the Lift-Off Global Network's First-Time FIlmmaker Sessions 2020.
+   ATIFLY is a short film directed by Justin Janoson. I was a cinematographer, and worked with LED lights to light up the shots. The film won *Audience Award Winner* at the 2020 Quinnies, was a part of the Official Selection for the Long Island International Film Expo, and was featured in the Lift-Off Global Network's First-Time FIlmmaker Sessions 2020.
    
    [IMDB](https://www.imdb.com/title/tt11646056/) |
    [Studio](https://www.puzzlepiecestudios.com/copy-of-the-break) |
@@ -38,56 +43,39 @@ I got involved in theatre in high school. I taught myself how to work with DMX l
 
 ### LX Operator
    ##### *Herricks High School | New Hyde Park, NY | Sep '19 - June '19*
-   I taught myself how to work with DMX lighting. I ran lights for ~10 shows throughout high school. My experience is with the ETC Ion board, on which I learned to program and design for plays, musicals and dance performances.
+   I taught myself how to work with DMX lighting. I ran lights for ~10 shows throughout high school. My experience is with the ETC Ion board, on which I learned to program and design for plays, musicals and dance performances.   
 
-&nbsp;
-## Activities
-### Juniors
-   ##### *Garden City Park Fire Dept | Garden City Park, NY | August '17 - Mar '20*
-
-### Friday Night Rec
-   ##### *Herricks Youth Council | New Hyde Park, NY | August '17 - Mar '20*
-   
-&nbsp;
 ## Education
 ### Farmingdale State College
    ##### Computer Programming and Information Systems, BS | 2019 - 2023
    **GPA:** 3.7  
    **Activities:** *President's List (Fall '19, Fall '20), Direct Effect Innovation Challenge (Winner), Campus IT Dept*
 
-
 ### Herricks High School
 ##### High School Diploma | 2016 – 2019
    **GPA:** 3.2  
-   **ACT (Jun '18):** 24  
-   **SAT (Mar '18):** 1170  
    **Activities:** *TV Studio Club (Vice President), Game Club (PR, Founders), Theatre (LX), Dance Theatre Club (LD), Senior Award (Theatre)*
 
-### Certifications
-#### Heartsaver CPR AED
-##### *American Heart Association | Issued Oct 2019 • Expires Oct 2021*
-###### ID 196207701626
-The Heartsaver CPR AED course trains participants to give CPR, and use an automated external defibrillator (AED) in a safe, timely, and effective manner.
+## Certifications
+| Certificate | Issuing Organization | Date | Expiry |
+| ----------- | -------------------- | ---- | ------ |
+| Heartsaver CPR AED | American Heart Association | Oct '19 | Oct '21 |
+| Heartsaver First Aid | American Heart Association | Oct '19 | Oct '21 |
+| MS Certified: Azure Fundamentals | Microsoft | Dec '20 | - |
+| MS Certified: Power Platform Fundamentals | Microsoft | Dec '20 | - |
+| MS Certified: Dynamics 365 Fundamentals | Microsoft | Dec '20 | - |
 
-#### Heartsaver First Aid
-##### *American Heart Association | Issued Oct 2019 • Expires Oct 2021*
-###### ID 196107710277
-Heartsaver First Aid is instructor-led course that teaches students critical skills to respond to and manage an emergency in the first few minutes until emergency medical services arrives.
+## Activities
+| Activity | Organization | Date |
+| -------- | ------------ | ---- |
+| Juniors  | Garden City Park Fire Dept | Aug '17 - Mar '20 |
+| Friday Night Rec  | Herricks Youth Council | Oct '18 - Jun '19 |
 
-#### Microsoft Certified: Azure Fundamentals
-##### *Microsoft | Dec 2020*
-###### ID: XXXXXX
-Proficiency in cloud concepts, core Azure services; security, privacy, compliance, and trust; Azure pricing Service Level Agreements, and Lifecycles.
+### Juniors
+   ##### *Garden City Park Fire Dept | Garden City Park, NY | August '17 - Mar '20*
 
-#### Microsoft Certified: Power Platform Fundamentals 
-##### *Microsoft | Dec 2020*
-###### ID: XXXXXX
-Proficiency in the business value, core components and capabilities of Power Platform and Power BI.
-
-####  Microsoft Certified: Dynamics 365 Fundamentals 
-##### *Microsoft | Issued Dec 2020*
-###### ID: XXXXXX
-Proficiency in MS platform components, AI intelligence, mixed reality model-driven apps, Finance, and Operations apps in Dynamics 365.
+### Friday Night Rec
+   ##### *Herricks Youth Council | New Hyde Park, NY | August '17 - Mar '20*
 
 ### Skills and Interests
  - **Microsoft:** Word, Powerpoint, Excel, Access, Windows, Group Policy
@@ -99,32 +87,34 @@ Proficiency in MS platform components, AI intelligence, mixed reality model-driv
 ---
 
 ## Lighting
+### Board Op / Assistant
+| Place | Production | LD | Director | Year |
+| ----- | ---------- | -- | -------- | ---- |
+| Herricks High School | Grimm | Dont remember | Luke DeLalio | 2015 |
+| Herricks High School | The Drowsy Chaperone | Rob Krakehl | Tom Wallace | 2016 |
+| Herricks High School | Harvey | Rob Krakehl | Laura Latham | 2016 |
+| Herricks High School | Pippin | Rob Krakehl |  Tom Wallace | 2017 |
+| Herricks High School | Almost, Maine | Rob Krakehl | Laura Latham | 2017 |
+| Herricks High School | On The Town | Laura Latham | Rob Krakehl | 2018 |
+| Herricks High School | The Man Who Came to Dinner | Rob Krakehl | Laura Latham | 2018 |
+| Herricks High School | The Addams Family | Alex Dollin | Laura Latham | 2019 |
+
+### Lighting Design
 | Place | Production | Director | Year |
 | ----- | ---------- | -------- | ---- |
-| Herricks High School | Grimm | Luke DeLalio | 2015 |
-| Herricks High School | The Drowsy Chaperone | Tom Wallace | 2016 |
-| Herricks High School | Harvey | Laura Latham | 2016 |
-| Herricks High School | Pippin | Tom Wallace | 2017 |
-| Herricks High School | Almost, Maine | Laura Latham | 2017 |
-| Herricks High School | On The Town | Laura Latham | 2018 |
 | Herricks High School | DTC Show 2018 | Lindsey Quenqua | 2018 |
-| Herricks High School | The Man Who Came to Dinner | Laura Latham | 2018 |
-| Herricks High School | The Addams Family | Laura Latham | 2019 |
 | Herricks High School | DTC Show 2019 | Lindsey Quenqua | 2019 |
 | Herricks High School | Herricks Idol - Season 16 | Herricks TRI-M | 2019 |
 
 &nbsp;
 ### References:
-| Name | Relation | Contact | 
-| ------------- | --- | --- |
-| Chris Brogan | HS Teacher, TV Studio | cbrogan@herricks.org |
-| Justin Harris Janoson | Film/Video | justinjanoson@gmail.com |
-| David Pickman | IT/Ed-tech | dpickman@herricks.org |
-| Nick Spano | IT/Ed-tech | nspano@herricks.org |
-| Luke Delalio | Theatre Lighting | need email |
-| Mike Guido | Theatre Tech | need email |
-| Robert Krakehl | Theatre Tech | need email |
-| Laura Latham | Theatre Tech | llatham@herricks.org |
+| Film/Video | IT | Theatre |
+| --- | --- | --- | --- |
+Chris Brogan (cbrogan@herricks.org) | David Pickman (dpickman@herricks.org) | Luke Delalio (need email)
+Justin Janoson (justinjanoson@gmail.com) | Nick Spano (nspano@herricks.org) | Mike Guido (need email)
+Emily Nagle (emilynagle@optonline.net) | - | Rob Krakehl (need email)
+| - | - | Laura Latham (llatham@herricks.org) |
+| - | - | Lindsey Quenqua (lquenqua@herricks.org) |
 
 ---
 Abhinav  |  [LinkedIn](https://www.linkedin.com/in/abhinav-/)  |  [IMDB](https://www.imdb.com/name/nm11288650/)
