@@ -116,7 +116,7 @@ Proficiency in MS platform components, AI intelligence, mixed reality model-driv
 &nbsp;
 ### References:
 | Name | Relation | Contact | 
-| ------------- | --- | --- | --- |
+| ------------- | --- | --- |
 | Chris Brogan | HS Teacher, TV Studio | cbrogan@herricks.org |
 | Justin Harris Janoson | Film/Video | justinjanoson@gmail.com |
 | David Pickman | IT/Ed-tech | dpickman@herricks.org |
